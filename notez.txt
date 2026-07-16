@@ -1,0 +1,21 @@
+16-07-2026 (Evening)
+
+- Added continuous conversation loop.
+- Added exit command.
+- Tested on mobile hotspot.
+- Measured performance:
+  - Listen: ~4.7s
+  - Whisper: ~14.5s
+  - LLM: ~0.38s
+  - TTS: ~6.2s
+- Observed SSL/network errors on hotspot.
+- Decision: postpone optimization until stable Wi-Fi.
+
+17-07-2026
+
+Project renamed:
+Rudy → Alphina
+
+Reason:
+Family is familiar with the name Rudy, so a unique assistant name is better.
+
